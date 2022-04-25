@@ -1,7 +1,11 @@
 /* import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans&display=swap');
 
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 .lobster {
     font-family: 'Lobster', cursive;
-    font-size: x-large;
+    font-size: 40px;
 }
