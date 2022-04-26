@@ -5,6 +5,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+.bg-pink {
+	background-color: #F66568;
+}
+
 .bg-red {
     background-color: #F54746;
 }
@@ -41,4 +45,8 @@ body {
     font-size: 100px;
     margin-top: 10%;
     margin-bottom: 10%;
+}
+
+.text-pink {
+	color: #ffbebf;
 }
