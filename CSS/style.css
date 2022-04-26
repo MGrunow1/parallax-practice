@@ -5,7 +5,40 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.lobster {
+.bg-red {
+    background-color: #F54746;
+}
+
+.img1, .img2, .img3, .img4, .img5 {
+	height: 100vh;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.img1 {
+	background-image: url("image1");
+}
+
+.img2 {
+	background-image: url("image2");
+}
+
+.img3 {
+	background-image: url("image1");
+}
+
+.img4 {
+	background-image: url("image2");
+}
+.img5 {
+	background-image: url("image1");
+}
+
+.lobster-headline {
     font-family: 'Lobster', cursive;
-    font-size: 40px;
+    font-size: 100px;
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
