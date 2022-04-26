@@ -18,11 +18,11 @@ body {
 }
 
 .img1 {
-	background-image: url("image1");
+	background-image: url("https://images.unsplash.com/photo-1472806679307-eab7abd1eb32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
 }
 
 .img2 {
-	background-image: url("image2");
+	background-image: url("https://images.unsplash.com/uploads/14128324071271c853818/3765c625?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
 }
 
 .img3 {
